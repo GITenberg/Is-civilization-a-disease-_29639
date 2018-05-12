@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34052
     wikipedia: http://en.wikipedia.org/wiki/Stanton_Coit
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29639#Is-civilization-a-disease-
 gutenberg_issued: '2009-08-08'
 gutenberg_type: Text
 identifiers:
